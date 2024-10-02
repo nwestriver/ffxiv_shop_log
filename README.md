@@ -1,0 +1,1 @@
+# ffxiv_shop_log
